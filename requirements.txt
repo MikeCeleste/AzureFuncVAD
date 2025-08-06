@@ -1,0 +1,6 @@
+azure-functions
+torch
+torchaudio
+requests
+git+https://github.com/snakers4/silero-vad.git
+

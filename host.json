@@ -1,0 +1,10 @@
+{
+  "version": "2.0",  
+
+  // (optional) extension bundle so you get the built-in triggers
+  "extensionBundle": {
+    "id": "Microsoft.Azure.Functions.ExtensionBundle",
+    "version": "[2.*, 3.0.0)"
+  }
+}
+
